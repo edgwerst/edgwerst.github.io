@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://edgwerst.github.io/sitemap.html.gz
+Sitemap: https://edgwerst.github.io/app/sitemap.html.gz
+Sitemap: https://edgwerst.github.io/assets/sitemap.html.gz
+Sitemap: https://edgwerst.github.io/css/sitemap.html.gz
+Sitemap: https://edgwerst.github.io/data/sitemap.html.gz
+Sitemap: https://edgwerst.github.io/includes/sitemap.html.gz
+Sitemap: https://edgwerst.github.io/item/sitemap.html.gz
+Sitemap: https://edgwerst.github.io/src/sitemap.html.gz
